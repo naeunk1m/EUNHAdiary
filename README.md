@@ -1,2 +1,2 @@
 # cafeEUNHA
-카페 은하(EUNHA) 입니닷 🥳
+공간대여 서비스 (나)은(서)하(EUNHA)
